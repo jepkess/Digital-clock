@@ -14,3 +14,4 @@ A simple application that uses Js ,HTML and CSS languages.
 
 ## License
 
+This project is under[mit](LICENSE.md)
