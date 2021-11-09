@@ -12,6 +12,8 @@ A simple application that uses Js ,HTML and CSS languages.
 3. HTML 
 4. Git
 
+view [live](https://jepkess.github.io/Digital-clock/)
+
 ## License
 
 This project is under[mit](LICENSE.md)
